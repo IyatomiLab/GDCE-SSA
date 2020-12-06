@@ -1,0 +1,12 @@
+.vscode
+.DS_Store
+.nfs*
+*.pkl
+logs/
+.python-version
+notebook/.ipynb_checkpoints/
+script/run.sh
+data/livedoor/*
+!data/livedoor/*.py
+data/font/*
+!data/font/*.txt
